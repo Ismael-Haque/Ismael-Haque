@@ -88,7 +88,7 @@
 <hr/>
 
 
-<h3 align="center">FAMILIAR BUT NOT EXPERT YET:</h3>
+<h3 align="center">FAMILIAR WITH BUT NOT EXPERT YET:</h3>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
