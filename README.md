@@ -1,110 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ismael Haque</h1>
-<h3 align="center">A Data Science enthusiast. Because of the fascination I have with the field of Data Science and Machine Learning I am constantly trying to learn about this field as much as I can.</h3>
-<hr>
+# Ismael Haque
+**Machine Learning | Gen AI | Agentic AI**  
+📍 [ Chuadanga, Bangladesh ] | 📧 [ ismaelhaque.dev@gmail.com ] | 🔗 [ Peerlist ](https://peerlist.io/ismaelhaque) | 📱 [ +8801796246317 ]
 
-<p align="center">🌱 I’m currently learning **Machine Learning & Deep Learning** 🌱</p>
+---
 
+### 🛠 Technical Skills
+*   **Languages:** *Python, SQL, C++*
+*   **Machine Learning Frameworks:** *Scikit-learn, Pytorch, transformers*
+*   **Gen AI / Agentic AI:** *Langchain, Langgraph, Smoagents, Ollama*
+*   **Libraries for Data Scrapping:** *Selenium, Beautiful-soup*
+*   **Backend Frameworks/Libraries:** *FastAPI, Django*
+*   **Tools & Platforms:** *Docker, Git, uv, pyenv*
+*   **Math:** *Linear Algebra, Statistics, Calculus*
+*   **Others:** *Microsoft Excel, Word*
 
-<h3 align="center">LANGUAGES AND TOOLS I USE:</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-      alt="seaborn"
-      width="40"
-      height="40"
-    />
-  </a>
+---
 
+### 💼 Professional Experience
+
+**[Somikoron AI]** | **[Data Science Intern]**  
+*[January, 2024] – [June, 2024]*
+
+* Developed a news alert system.
+* Scrapped data from websites using python libraries i.e. selenium, beautifulsoup.
+* Preprocessed data scraped from websites using Regex.
+* Packaged python scripts to ensure importability.
+
+---
+
+### 🎓 Education
+**[Computer Science & Engineering]** | [First Capital University of Bangladesh]  
+*[Graduation Year: 2021]*
+
+---
+
+### 🏆 Certifications & Awards
+*   **[Data Science Intern]** – [Somikorn AI](https://github.com/Ismael-Haque/Certification/blob/main/Ismael_Haque_Internship_certificate.png), [2024]
+*   <img src="https://github.com/Ismael-Haque/Certification/blob/main/Ismael_Haque_Internship_certificate.png" width="400" alt="datacamp supervised learning">
+*   **[Supervised Learning with scikit-learn]** – [DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/fb5d71433677e9ee6ec81b50495a75e0c7813f6d), [2026]
+*   <img src="https://github.com/Ismael-Haque/Certification/blob/main/Supervised_Learning_certificate_Ismael_Haque.png" width="400" alt="datacamp supervised learning">
   
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a> 
-</p>
+*   **[Unsupervised Learning in Python]** – [Datacamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/a967f6aebef877ece349f25e17ecbdeb7c58fa1b), [2026]
+*   <img src="https://github.com/Ismael-Haque/Certification/blob/main/Unsupervised%20Learning%20in%20Python.png" width="400" alt="datacamp supervised learning">
 
+    ### 📝 IELTS Academic
+    **Test Date:** [25/OCT/2024]  
+    **Overall Band Score: 6.5** (B2)
+    
+    
+    | Section | Score |
+    | :--- | :---: |
+    | 🎧 Listening | 6.0 |
+    | 📖 Reading | 6.0 |
+    | ✍️ Writing | 6.5 |
+    | 🗣️ Speaking | 7.0 |
+*   <img src="https://github.com/Ismael-Haque/Certification/blob/main/Ismael_Haque_ielts_report_2024.jpg" width="400" alt="datacamp supervised learning">
 
-<hr/>
-
-
-<h3 align="center">DEEPLEARNING LIBRARIES:</h3>
-<p align="center">
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-      alt="pytorch"
-      width="40"
-      height="40"
-    />
-  </a>
-  </p>
-
-  
-<hr/>
-
-
-<h3 align="center">TOOLS FOR DATA ANALYSIS:</h3>
-<p align="center">
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/512/906/906310.png?w=740&t=st=1690304365~exp=1690304965~hmac=ac35d1fa06c26b1f1320a63feb43e10cfeaa3aac95267c2fb8b7cc95dc70885d"
-      alt="microsoft excel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tableau.com/products/public#:~:text=Tableau%20Public%20is%20a%20free,makes%20developing%20data%20skills%20easy." target="_blank" rel="noreferrer">
-    <img
-      src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png"
-      alt="tableau"
-      width="40"
-      height="40"
-    />
-  </a>
-  </p>
-
+    ### 📝 N5 | NAT (Japanese Proficience Test)
+*   <img src="https://github.com/Ismael-Haque/Certification/blob/main/N5_NAT_Certificate_Ismael_Haque.jpg" width="400" alt="datacamp supervised learning">    
