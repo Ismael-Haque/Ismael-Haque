@@ -42,6 +42,8 @@
   
 *   **[Unsupervised Learning in Python]** – [Datacamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/a967f6aebef877ece349f25e17ecbdeb7c58fa1b), [2026]
 *   <img src="https://github.com/Ismael-Haque/Certification/blob/main/Unsupervised%20Learning%20in%20Python.png" width="400" alt="datacamp supervised learning">
+*   **[Working with Hugging Face]** – [Datacamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/c77a783c32927988581190379441d38da1b64100), [2026]
+*   <img src="https://github.com/Ismael-Haque/Certification/blob/main/Working%20with%20Hugging%20Face.png" width="400" alt="datacamp supervised learning">
 
     ### 📝 IELTS Academic
     **Test Date:** [25/OCT/2024]  
